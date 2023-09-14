@@ -14,7 +14,7 @@ document.addEventListener("keydown",function(event){
     }
 
 });
-      
+
 
 
 function moveDodgerLeft(){
@@ -34,3 +34,5 @@ function moveDodgerRight(){
         dodger.style.left = `${left + 1}px`;
     }
 }
+
+//codegrade broke i will try to change the file and see if it will refresh
